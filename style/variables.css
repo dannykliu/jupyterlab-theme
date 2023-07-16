@@ -336,7 +336,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   --jp-editor-selected-background: rgba(50, 55, 83, 0.65);
   --jp-editor-selected-focused-background: rgba(62, 68, 102, 0.85);
-  --jp-editor-cursor-color: #f65d22;
+  --jp-editor-cursor-color: #ffffff;
 
   /* Code mirror specific styles */
 
@@ -411,9 +411,6 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-search-selected-match-color: black;
   --jp-search-unselected-match-background-color:  #98cc64;
   --jp-search-unselected-match-color: black;
-  /* --jp-search-selected-match-background-color: rgb(255, 225, 0); */
-  /* --jp-search-unselected-match-background-color: rgb(255, 123, 0); */
-  /* --jp-search-unselected-match-color: var(--jp-ui-inverse-font-color0); */
 }
 
 
@@ -624,7 +621,6 @@ button.jp-Button.bp3-button.bp3-minimal:hover {
     border: 1px solid var(--jp-layout-color1);
     border-radius: var(--jp-border-radius);
 }
-
 
 
 /*######################################################*/
